@@ -1,6 +1,6 @@
 # 🚀 PostgreSQL High Availability Cluster
 
-![License](https://img.shields.io/badge/license-MIT-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue) ![Patroni](https://img.shields.io/badge/Patroni-Cluster_Manager-green) ![HAProxy](https://img.shields.io/badge/HAProxy-Load_Balancer-orange) ![Keepalived](https://img.shields.io/badge/Keepalived-VIP-red) ![Status](https://img.shields.io/badge/status-development-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue) ![Patroni](https://img.shields.io/badge/Patroni-Cluster_Manager-green) ![etcd](https://img.shields.io/badge/etcd-3.5.17-blueviolet) ![HAProxy](https://img.shields.io/badge/HAProxy-Load_Balancer-orange) ![Keepalived](https://img.shields.io/badge/Keepalived-VIP-red) ![Status](https://img.shields.io/badge/status-development-yellow)
 
 ### Patroni + etcd + HAProxy + Keepalived
 
